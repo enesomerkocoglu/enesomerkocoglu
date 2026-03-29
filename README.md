@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=640&lines=Merhaba%2C+ben+Enes+Ömer+;Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+React;NASA+%26+Dünya+Bankası+verili+proje+geliştirdim)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=640&lines=Merhaba%2C+ben+Enes+Ömer;Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+React;NASA+%26+Dünya+Bankası+verili+proje+geliştirdim)](https://git.io/typing-svg)
 
 <br/>
 
@@ -13,7 +13,7 @@
 <a href="https://enesomerkocoglu.github.io/iklimiz">
   <img src="https://img.shields.io/badge/İklimiz_Demo-2ECC71?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-<a href="mailto:enesomerk1@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&to=enesomerk1@gmail.com">
   <img src="https://img.shields.io/badge/E--posta-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -29,7 +29,7 @@
 
 ```javascript
 const enes = {
-  konum        : "İstanbul, Türkiye",
+  konum        : "İstanbul, Türkiye 🇹🇷",
   eğitim       : "Anadolu Üniversitesi — Web Tasarım ve Kodlama",
   öğreniyor    : ["React", "Clean Code", "Web Performansı"],
   hedef        : "Staj & Junior Frontend Developer pozisyonu",
@@ -42,10 +42,10 @@ const enes = {
 
 ###  Öne Çıkan Projelerim
 
-| &nbsp; | Proje | Açıklama | Teknolojiler | Demo |
-|--------|-------|----------|--------------|------|
-|  | [İklimiz](https://github.com/enesomerkocoglu/iklimiz) | NASA & Dünya Bankası verili canlı iklim dashboard'u | JS · Chart.js · REST API | [Canlı →](https://enesomerkocoglu.github.io/iklimiz) |
-|  | [Portfolyo](https://github.com/enesomerkocoglu/Enes-omer-Kocoglu.dev) | PageSpeed Insights **100/100** kişisel portfolyo | HTML · CSS · JS | [Canlı →](https://enesomerkocoglu.github.io/Enes-omer-Kocoglu.dev/) |
+| Proje | Açıklama | Teknolojiler | Demo |
+|-------|----------|--------------|------|
+| [İklimiz](https://github.com/enesomerkocoglu/iklimiz) | NASA & Dünya Bankası verili canlı iklim dashboard'u | JS · Chart.js · REST API | [Canlı →](https://enesomerkocoglu.github.io/iklimiz) |
+| [Portfolyo](https://github.com/enesomerkocoglu/Enes-omer-Kocoglu.dev) | PageSpeed Insights **100/100** kişisel portfolyo | HTML · CSS · JS | [Canlı →](https://enesomerkocoglu.github.io/Enes-omer-Kocoglu.dev/) |
 
 ---
 
@@ -69,6 +69,11 @@ const enes = {
 ---
 
 ###  GitHub İstatistiklerim
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=enesomerkocoglu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesomerkocoglu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="49%" />
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=enesomerkocoglu&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=tr" width="60%" />
