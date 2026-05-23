@@ -36,7 +36,7 @@ const enes = {
   eğitim       : "Anadolu Üniversitesi — Web Tasarım ve Kodlama",
   öğreniyor    : ["React", "Clean Code", "Web Performansı"],
   hedef        : "Staj & Junior Frontend Developer pozisyonu",
-  güçlüYönler  : ["API entegrasyonu", "Responsive tasarım", "Performans optimizasyonu"],
+  güçlüYönler  : ["Responsive tasarım", "Performans optimizasyonu"],
   iletişim     : "linkedin.com/in/enes-ömer-koçoğlu-08447937b"
 };
 ```
