@@ -47,7 +47,7 @@ const enes = {
 
 | Proje | Açıklama | Teknolojiler | Demo |
 |-------|----------|--------------|------|
-| [KORTAV](https://enesomerkocoglu.github.io/KORTAV) | KORTAV, premium bir alışveriş deneyimini sade ve hızlı  | REACT · VİTE · JS | [Canlı →](https://enesomerkocoglu.github.io/KORTAV) |
+| [KORTAV](https://github.com/enesomerkocoglu/KORTAV) | KORTAV, premium bir alışveriş deneyimini sade ve hızlı  | REACT · VİTE · JS | [Canlı →](https://enesomerkocoglu.github.io/KORTAV) |
 | [İklimiz](https://github.com/enesomerkocoglu/iklimiz) | NASA & Dünya Bankası verili canlı iklim dashboard'u | JS · Chart.js · REST API | [Canlı →](https://enesomerkocoglu.github.io/iklimiz) |
 | [Portfolyo](https://github.com/enesomerkocoglu/Enes-omer-Kocoglu.dev) | PageSpeed Insights **100/100** kişisel portfolyo | HTML · CSS · JS | [Canlı →](https://enesomerkocoglu.github.io/Enes-omer-Kocoglu.dev/) |
 
