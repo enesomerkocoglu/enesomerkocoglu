@@ -7,14 +7,14 @@
 <a href="https://www.linkedin.com/in/enes-ömer-koçoğlu-08447937b">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?&color=2C3E50&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://enesomerkocoglu.github.io/Enes-omer-Kocoglu.dev/">
-  <img src="https://img.shields.io/badge/Portfolyo-000000?&color=2C3E50&style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://enesomerkocoglu.github.io/KORTAV">
+  <img src="https://img.shields.io/badge/%20KORTAV%20Demo-C9A84C?&color=2C3E50&style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="https://enesomerkocoglu.github.io/iklimiz">
   <img src="https://img.shields.io/badge/İklimiz_Demo-2ECC71?&color=2C3E50&style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-<a href="https://enesomerkocoglu.github.io/KORTAV">
-  <img src="https://img.shields.io/badge/%20KORTAV%20Demo-C9A84C?&color=2C3E50&style=for-the-badge&logo=googlechrome&logoColor=white" />
+<a href="https://enesomerkocoglu.github.io/Enes-omer-Kocoglu.dev/">
+  <img src="https://img.shields.io/badge/Portfolyo-000000?&color=2C3E50&style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="https://mail.google.com/mail/?view=cm&to=enesomerk1@gmail.com">
   <img src="https://img.shields.io/badge/E--posta-EA4335?&color=2C3E50&style=for-the-badge&logo=gmail&logoColor=white" />
@@ -47,6 +47,7 @@ const enes = {
 
 | Proje | Açıklama | Teknolojiler | Demo |
 |-------|----------|--------------|------|
+| [KORTAV](https://enesomerkocoglu.github.io/KORTAV) | KORTAV, premium bir alışveriş deneyimini sade ve hızlı  | REACT · VİTE · JS | [Canlı →](https://enesomerkocoglu.github.io/KORTAV) |
 | [İklimiz](https://github.com/enesomerkocoglu/iklimiz) | NASA & Dünya Bankası verili canlı iklim dashboard'u | JS · Chart.js · REST API | [Canlı →](https://enesomerkocoglu.github.io/iklimiz) |
 | [Portfolyo](https://github.com/enesomerkocoglu/Enes-omer-Kocoglu.dev) | PageSpeed Insights **100/100** kişisel portfolyo | HTML · CSS · JS | [Canlı →](https://enesomerkocoglu.github.io/Enes-omer-Kocoglu.dev/) |
 
@@ -57,11 +58,15 @@ const enes = {
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&color=2C3E50&style=for-the-badge&logo=javascript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?&color=2C3E50&style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?&color=2C3E50&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?&color=2C3E50&style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?&color=2C3E50&style=for-the-badge&logo=react&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?&color=2C3E50&style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?&color=2C3E50&style=for-the-badge&logo=fastapi&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router%20v6-CA4245?&color=2C3E50&style=for-the-badge&logo=reactrouter&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?&color=2C3E50&style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?&color=2C3E50&style=for-the-badge&logo=githubpages&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?&color=2C3E50&style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?&color=2C3E50&style=for-the-badge&logo=github&logoColor=white)
 ![Responsive](https://img.shields.io/badge/Responsive_Design-38BDF8?&color=2C3E50&style=for-the-badge&logo=css3&logoColor=white)
